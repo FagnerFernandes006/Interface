@@ -1,0 +1,14 @@
+C:\Users\Fagner.bfernandes\source\repos\ExemploInterface\ExemploInterface\bin\Debug\netcoreapp3.1\ExemploInterface.exe
+C:\Users\Fagner.bfernandes\source\repos\ExemploInterface\ExemploInterface\bin\Debug\netcoreapp3.1\ExemploInterface.deps.json
+C:\Users\Fagner.bfernandes\source\repos\ExemploInterface\ExemploInterface\bin\Debug\netcoreapp3.1\ExemploInterface.runtimeconfig.json
+C:\Users\Fagner.bfernandes\source\repos\ExemploInterface\ExemploInterface\bin\Debug\netcoreapp3.1\ExemploInterface.runtimeconfig.dev.json
+C:\Users\Fagner.bfernandes\source\repos\ExemploInterface\ExemploInterface\bin\Debug\netcoreapp3.1\ExemploInterface.dll
+C:\Users\Fagner.bfernandes\source\repos\ExemploInterface\ExemploInterface\bin\Debug\netcoreapp3.1\ExemploInterface.pdb
+C:\Users\Fagner.bfernandes\source\repos\ExemploInterface\ExemploInterface\obj\Debug\netcoreapp3.1\ExemploInterface.csproj.AssemblyReference.cache
+C:\Users\Fagner.bfernandes\source\repos\ExemploInterface\ExemploInterface\obj\Debug\netcoreapp3.1\ExemploInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fagner.bfernandes\source\repos\ExemploInterface\ExemploInterface\obj\Debug\netcoreapp3.1\ExemploInterface.AssemblyInfoInputs.cache
+C:\Users\Fagner.bfernandes\source\repos\ExemploInterface\ExemploInterface\obj\Debug\netcoreapp3.1\ExemploInterface.AssemblyInfo.cs
+C:\Users\Fagner.bfernandes\source\repos\ExemploInterface\ExemploInterface\obj\Debug\netcoreapp3.1\ExemploInterface.csproj.CoreCompileInputs.cache
+C:\Users\Fagner.bfernandes\source\repos\ExemploInterface\ExemploInterface\obj\Debug\netcoreapp3.1\ExemploInterface.dll
+C:\Users\Fagner.bfernandes\source\repos\ExemploInterface\ExemploInterface\obj\Debug\netcoreapp3.1\ExemploInterface.pdb
+C:\Users\Fagner.bfernandes\source\repos\ExemploInterface\ExemploInterface\obj\Debug\netcoreapp3.1\ExemploInterface.genruntimeconfig.cache
